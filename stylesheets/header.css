@@ -1,0 +1,30 @@
+.header {
+    margin-inline: auto;
+    width: 80%;
+    display: flex; 
+    align-items: center;
+    background-color: #1F2937;
+    padding: 10px 0 10px 0;
+}
+
+.header__links > ul {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+    list-style-type: none;
+    flex: 1;
+}
+
+.header__links > ul > li > a {
+    text-decoration: none;
+    text-decoration-line: none;
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.header__logo {
+    color: #F9FAF8;
+    font-size: 24px;
+    display: flex;
+    flex: 1;
+}

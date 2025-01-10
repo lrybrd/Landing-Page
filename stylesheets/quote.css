@@ -1,0 +1,19 @@
+.quote__container {
+    color: #1E2937;
+    background-color: #E5E7EB;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5rem;
+}
+
+.quote__main__container > p {
+    font-size: 36px;
+    font-style: italic;
+    width: 850px;
+}
+
+.quote__main__container > h3 {
+    display: flex;
+    justify-content: flex-end;
+}

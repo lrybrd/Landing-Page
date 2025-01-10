@@ -1,0 +1,15 @@
+.footer {
+    background-color: #1F2937;
+    padding: 2.5rem;
+}
+
+.footer__container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.footer__container > h4 {
+    color: white;
+}
